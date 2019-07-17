@@ -20,3 +20,4 @@ Best practices were learned from:
 
 # Analyzing 
 ![Screenshot_43](https://user-images.githubusercontent.com/40516126/61350609-268d3700-a836-11e9-9096-a3f179ff283e.png)
+![Screenshot_45](https://user-images.githubusercontent.com/40516126/61350670-5b00f300-a836-11e9-9a92-0b07fc33264a.png)
