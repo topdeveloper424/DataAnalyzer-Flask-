@@ -1,4 +1,4 @@
-# Flask Foundation
+# DataAnalyzer(Flask)
 [![Build Status](https://travis-ci.org/JackStouffer/Flask-Foundation.png)](https://travis-ci.org/JackStouffer/Flask-Foundation)
 
 There is a cookiecutter version of this repo at [https://github.com/JackStouffer/cookiecutter-Flask-Foundation](https://github.com/JackStouffer/cookiecutter-Flask-Foundation).
@@ -15,9 +15,8 @@ Best practices were learned from:
 * [Getting Bigger With Flask](http://maximebf.com/blog/2012/11/getting-bigger-with-flask/)
 * [Larger Applications With Flask](http://flask.pocoo.org/docs/patterns/packages/).
 
-## License
-
-Flask-Foundation is licensed under the BSD license. For more info see LICENSE.md
+## Run server
+``python manage.py runserver``
 
 # Want to learn more about Flask?
 
