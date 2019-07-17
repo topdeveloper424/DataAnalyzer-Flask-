@@ -18,6 +18,4 @@ Best practices were learned from:
 ## Run server
 ``python manage.py runserver``
 
-# Want to learn more about Flask?
-
-Jack also wrote a book on Flask! You can order it [here](https://www.packtpub.com/web-development/mastering-flask).
+# Analyzing 
