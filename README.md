@@ -19,3 +19,4 @@ Best practices were learned from:
 ``python manage.py runserver``
 
 # Analyzing 
+![Screenshot_43](https://user-images.githubusercontent.com/40516126/61350609-268d3700-a836-11e9-9096-a3f179ff283e.png)
